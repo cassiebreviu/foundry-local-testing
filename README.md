@@ -6,19 +6,11 @@ A hands-on workshop for building AI agents with local models using Foundry Local
 
 This workshop teaches you how to build, deploy, and evaluate AI agents using local language models. You'll learn to work with Foundry Local for running models on your own hardware, the Microsoft Agent Framework (AGF) for building intelligent agents, and best practices for evaluation.
 
-## Prerequisites
+### Prerequisites
 
-### Software Requirements
 - **Python 3.9+** or **.NET 9.0+**
-- **Foundry Local** installed and running
 - **Git** for cloning the repository
-
-### Knowledge Prerequisites
 - Basic programming in Python or C#
-- Understanding of async/await patterns
-- Familiarity with APIs (helpful but not required)
-
-
 ---
 
 ## Part 1: Getting Started with LLMs
@@ -36,7 +28,7 @@ This workshop teaches you how to build, deploy, and evaluate AI agents using loc
 - Download and run your first local model
 - Interact with models via command line
 
-**Get Started:**
+**Get Started with Foundry Local CLI:**
 - Follow the instructions to [get started with Foundry Local CLI](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/get-started)
 
 
