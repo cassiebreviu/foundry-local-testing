@@ -1,0 +1,8 @@
+# Python virtual environment
+virtualenv
+# Foundry Local SDK for running local AI models
+foundry-local
+# OpenAI SDK for API compatibility
+openai
+# Microsoft Agent Framework
+agent-framework
