@@ -86,6 +86,7 @@ This workshop teaches you how to build, deploy, and evaluate AI agents using loc
    cd csharp
    dotnet restore
    dotnet build
+   dotnet run
    ```
 
 3. **Experiment with Instructions**
