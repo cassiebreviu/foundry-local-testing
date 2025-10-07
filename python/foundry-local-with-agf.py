@@ -2,6 +2,10 @@ import asyncio
 from agent_framework.azure import AzureOpenAIChatClient
 from foundry_local import FoundryLocalManager
 
+### IMPORTANT NOTE: THIS DOES NOT CURRENTLY WORK ###
+# The AzureOpenAIChatClient does not currently support custom endpoints
+# This results in a connection error
+
 async def main():
     
 
