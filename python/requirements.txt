@@ -2,6 +2,7 @@
 virtualenv
 # Foundry Local SDK for running local AI models
 foundry-local
+foundry-local-sdk
 # OpenAI SDK for API compatibility
 openai
 # Microsoft Agent Framework
